@@ -103,30 +103,49 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 🎗 <https://github.com/JonSno29/Folio.git>
 
-🎗 
+ 
+🎗 MOCK-UP IMAGES:
 
-🎗 MOCK-UP VIDEOS:
-
+🎗 This was the original project, However I edited a .gif file too many times and the portfolio became too big to push:
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="src/assets/Screen Shot 2023-01-30 at 8.30.57 PM (2).png" width="350" alt="accessibility text">
+</p>
+🎗 The original project deployment:
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="src/assets/Screen Shot 2023-01-31 at 7.27.13 PM.png" width="350" alt="accessibility text">
+</p>
+🎗 This Portfolio sends and receives emails:
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="src/assets/Screen Shot 2023-02-03 at 1.48.21 PM.png" width="350" alt="accessibility text">
+</p>
 
 
 ## CREDITS
 
  ![](https://img.shields.io/badge/Created%20by-JON%20T.%20SNOVER-blue?style=for-the-badge)  
 
-## DEPENDENCIES
+🎗 EGATOR- Youtube, Styling Ideas and how to connect EmailJS.
 
-   ```
-   "dependencies": 
-      "@emailjs/browser": "^3.10.0",
+## DEPENDENCIES
+```
+   "homepage": "https://jonsno29.github.io/Folio/",
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "emailjs": "^4.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+     "devDependencies": {
+    "gh-pages": "^5.0.0"
    ```
 
 ## LICENSE
@@ -143,17 +162,13 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## TESTS
 
-![](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat-square&logo=mongoDB)
-
 ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm)
 
 ![](https://img.shields.io/badge/VisualStudio-CODE-blue?style=flat-square&logo=VSCODE)
 
 ![](https://img.shields.io/badge/npm%20package-JEST-cyan?style=flat-square&logo=npm)
   
-![](https://img.shields.io/badge/npm%20package-mongoose-cyan?style=flat-square&logo=npm)
 
-![](https://img.shields.io/badge/npm%20package-moment-%3CCOLOR%3E?style=flat-square&logo=npm)
 
 ## CONTACT ME
 
