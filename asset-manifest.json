@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Folio/static/css/main.17badbc5.css",
+    "main.js": "/Folio/static/js/main.84d787ce.js",
+    "static/media/fullsizebluegif.gif": "/Folio/static/media/fullsizebluegif.d4ee131a67db51a36480.gif",
+    "static/media/Images.png": "/Folio/static/media/Images.906e22bd571c5d1381b2.png",
+    "static/media/JTSCODER.pdf": "/Folio/static/media/JTSCODER.a924c6c761ec85826cc3.pdf",
+    "static/media/TRIPPIEBRtSample.png": "/Folio/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
+    "static/media/fcswtrans.png": "/Folio/static/media/fcswtrans.00de081d087500747a48.png",
+    "static/media/README-1.png": "/Folio/static/media/README-1.5027c862137a4afdc063.png",
+    "static/media/JTS.png": "/Folio/static/media/JTS.6d2f7c8e70ee451e13ca.png",
+    "static/media/FULL COUNT SOFT WASH-1.png": "/Folio/static/media/FULL COUNT SOFT WASH-1.8dfd9a76dc353cd25370.png",
+    "static/media/CODIOtran.png": "/Folio/static/media/CODIOtran.6800bb6f67971c6ad2ee.png",
+    "index.html": "/Folio/index.html",
+    "main.17badbc5.css.map": "/Folio/static/css/main.17badbc5.css.map",
+    "main.84d787ce.js.map": "/Folio/static/js/main.84d787ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17badbc5.css",
+    "static/js/main.84d787ce.js"
+  ]
+}
