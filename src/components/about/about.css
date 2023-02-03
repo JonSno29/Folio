@@ -28,7 +28,7 @@
 
 .about__me-image:hover {
   background: transparent;
-  transform: rotate(0);
+ 
   background-color: rgba(194, 114, 114, 0.5); 
 }
 

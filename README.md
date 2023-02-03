@@ -103,6 +103,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 🎗 <https://github.com/JonSno29/Folio.git>
 
+🎗 <https://jonsno29.github.io/Folio/>
  
 🎗 MOCK-UP IMAGES:
 
