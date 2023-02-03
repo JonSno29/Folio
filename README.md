@@ -1,6 +1,3 @@
-
-# EDIT-YO-TEXT
-
 <div align="center" id="top">
   <img width="500px" height="200px" src="welcome.svg"/>
   </div>
@@ -54,7 +51,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
  🎗[DEPENDENCIES](#dependencies)
 
- 🎗[CONTACT ME](#contactme)
+ 🎗[CONTACT](#contact)
 
 ## INSTALLATION
 
@@ -104,7 +101,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 <a href="https://github.com/JonSno29/PORTFOLIO-JTS.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
-🎗 <https://github.com/JonSno29/PORTFOLIO-JTS.git>
+🎗 <https://github.com/JonSno29/Folio.git>
 
 🎗 
 
@@ -160,7 +157,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## CONTACT ME
 
-<a href="https://github.com/JonSno29/PORTFOLIO-JTS.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/JonSno29/Folio.git" target="_blank"><img src="https://img.shields.io/badge/Github-jonsno29-red?style=for-the-badge&logo=github"></a>
 
 <a href="mailto:snoverjon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=snoverjon@gmail.com"/></a>
-# Folio
+
