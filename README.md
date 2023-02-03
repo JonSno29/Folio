@@ -108,17 +108,14 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 🎗 This was the original project, However I edited a .gif file too many times and the portfolio became too big to push:
 <p align="center">
-  <img src="your_relative_path_here" width="350">
   <img src="src/assets/Screen Shot 2023-01-30 at 8.30.57 PM (2).png" width="350" alt="accessibility text">
 </p>
 🎗 The original project deployment:
 <p align="center">
-  <img src="your_relative_path_here" width="350">
   <img src="src/assets/Screen Shot 2023-01-31 at 7.27.13 PM.png" width="350" alt="accessibility text">
 </p>
 🎗 This Portfolio sends and receives emails:
 <p align="center">
-  <img src="your_relative_path_here" width="350">
   <img src="src/assets/Screen Shot 2023-02-03 at 1.48.21 PM.png" width="350" alt="accessibility text">
 </p>
 
