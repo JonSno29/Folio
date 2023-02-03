@@ -3,7 +3,7 @@
   display: grid;
   grid-template-columns: 30% 58%;
   gap: 12%;
-  color: blue;
+  color: rgb(2, 2, 8);
 }
 
 .contact__options {
@@ -45,7 +45,7 @@
   margin-top: 0.7rem;
   display: inline-block;
   font-size: 1.5rem;
-  color: blue;
+  color: rgb(3, 3, 4);
 }
 
 form {

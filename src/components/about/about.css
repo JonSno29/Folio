@@ -21,7 +21,7 @@
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;
-  transform: rotate(10deg);
+ 
   transition: var(--transition);
   width: 50%;
 }
@@ -78,7 +78,7 @@
 
 .about__content p {
   margin: 2rem 0 2.6rem;
-  color: rgb(250, 69, 69);
+  color: rgb(113, 207, 244);
   font-size: larger;
 }
 
