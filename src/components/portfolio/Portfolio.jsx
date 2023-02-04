@@ -32,7 +32,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Portfolio #1",
+    title: "My original Portfolio #1",
     github: "https://github.com/JonSno29/JTS_PORTFOLIO",
     demo: "https://jonsno29.github.io/JTS_PORTFOLIO/",
   },
