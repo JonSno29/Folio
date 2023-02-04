@@ -21,14 +21,12 @@
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;
- 
   transition: var(--transition);
   width: 50%;
 }
 
 .about__me-image:hover {
   background: transparent;
- 
   background-color: rgba(194, 114, 114, 0.5); 
 }
 
