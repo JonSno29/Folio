@@ -46,7 +46,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "An extra website that wan not used",
+    title: "An extra website that was not used",
     github:"https://github.com/JonSno29/F.C.S.W.",
     demo:  "https://jonsno29.github.io/F.C.S.W./",
   },
