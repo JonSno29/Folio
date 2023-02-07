@@ -32,7 +32,11 @@ const data = [
   {
     id: 4,
     image: IMG4,
+<<<<<<< HEAD
     title: "My first Professional Portfolio, University Of Minnesota themed",
+=======
+    title: "My original Portfolio #1",
+>>>>>>> e6c1099d4704e4501ae2af922f77d0b8c6286789
     github: "https://github.com/JonSno29/JTS_PORTFOLIO",
     demo: "https://jonsno29.github.io/JTS_PORTFOLIO/",
   },
@@ -46,7 +50,11 @@ const data = [
   {
     id: 6,
     image: IMG6,
+<<<<<<< HEAD
     title: "An extra website that was not used, This site is similar to the pressure washing website ",
+=======
+    title: "An extra website that was not used",
+>>>>>>> e6c1099d4704e4501ae2af922f77d0b8c6286789
     github:"https://github.com/JonSno29/F.C.S.W.",
     demo:  "https://jonsno29.github.io/F.C.S.W./",
   },
