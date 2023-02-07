@@ -3,7 +3,7 @@ import Resume from "./Resume";
 import HeaderSocials from "./HeaderSocials";
 import "./header.css";
 
-import ME from "../../assets/logo512.png";
+import ME from "../../assets/JTSbluetran.png";
 
 const Header = () => {
   return (
