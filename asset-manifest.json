@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Folio/static/css/main.9b022e07.css",
-    "main.js": "/Folio/static/js/main.20ce63cf.js",
+    "main.js": "/Folio/static/js/main.8cebdd99.js",
     "static/media/fullsizebluegif.gif": "/Folio/static/media/fullsizebluegif.d4ee131a67db51a36480.gif",
     "static/media/Images.png": "/Folio/static/media/Images.906e22bd571c5d1381b2.png",
-    "static/media/JTSCODER.pdf": "/Folio/static/media/JTSCODER.a924c6c761ec85826cc3.pdf",
+    "static/media/newestresume2:7.pdf": "/Folio/static/media/newestresume2:7.d56c666619e71b377220.pdf",
     "static/media/TRIPPIEBRtSample.png": "/Folio/static/media/TRIPPIEBRtSample.8589b7d629f2d27d4621.png",
     "static/media/JTSbluetran.png": "/Folio/static/media/JTSbluetran.774aa8808cd9a7ea30a8.png",
     "static/media/fcswtrans.png": "/Folio/static/media/fcswtrans.00de081d087500747a48.png",
@@ -14,10 +14,10 @@
     "static/media/CODIOtran.png": "/Folio/static/media/CODIOtran.6800bb6f67971c6ad2ee.png",
     "index.html": "/Folio/index.html",
     "main.9b022e07.css.map": "/Folio/static/css/main.9b022e07.css.map",
-    "main.20ce63cf.js.map": "/Folio/static/js/main.20ce63cf.js.map"
+    "main.8cebdd99.js.map": "/Folio/static/js/main.8cebdd99.js.map"
   },
   "entrypoints": [
     "static/css/main.9b022e07.css",
-    "static/js/main.20ce63cf.js"
+    "static/js/main.8cebdd99.js"
   ]
 }
