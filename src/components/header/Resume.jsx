@@ -1,5 +1,5 @@
 import React from "react";
-import JTSCODER from "../../assets/JTSCODER.pdf";
+import JTSCODER from "../../assets/newestresume2:7.pdf";
 import "./resume.css";
 const Resume = () => {
   return (
