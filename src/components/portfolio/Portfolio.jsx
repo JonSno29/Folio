@@ -5,7 +5,7 @@ import IMG2 from "../../assets/TRIPPIEBRtSample.png";
 import IMG3 from "../../assets/FULL COUNT SOFT WASH-1.png";
 import IMG4 from "../../assets/JTS-1.png";
 import IMG5 from "../../assets/README-1.png";
-import IMG6 from "../../assets/fcswtrans.png";
+import IMG6 from "../../assets/TIK-TAK-CODE-1 (1).png";
 
 const data = [
   {
@@ -46,9 +46,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "An extra website that was not used, This site is similar to the pressure washing website ",
-    github:"https://github.com/JonSno29/F.C.S.W.",
-    demo:  "https://jonsno29.github.io/F.C.S.W./",
+    title: "Our final coding bootcamp project three, TIK-TAK-CODE ",
+    github:"https://github.com/vivid20221/Tik-Tak-Code.git",
+    demo:  "https://github.com/vivid20221/Tik-Tak-Code.git",
   },
 ];
 
